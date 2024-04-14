@@ -1,4 +1,4 @@
-# Deploy Apps on Streamlit Tutorial
+# Deploy Apps on Streamlit Cloud Tutorial
 
 #### Author : Rahul Bhoyar
 
